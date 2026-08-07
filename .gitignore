@@ -1,0 +1,31 @@
+```
+# Build results
+**/bin/
+**/obj/
+**/out/
+
+# User-specific files
+.vs/
+.vscode/
+*.userprefs
+
+# Dependencies
+packages/
+**/node_modules/
+
+# Environment specific settings
+.env
+.env.local
+*.env.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*~
+```
