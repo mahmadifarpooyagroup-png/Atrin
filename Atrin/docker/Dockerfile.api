@@ -1,0 +1,32 @@
+FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
+WORKDIR /src
+
+# Copy solution file
+COPY *.sln ./
+
+# Copy project files
+COPY Atrin.Api/*.csproj ./Atrin.Api/
+COPY Atrin.Application/*.csproj ./Atrin.Application/
+COPY Atrin.Domain/*.csproj ./Atrin.Domain/
+COPY Atrin.Infrastructure/*.csproj ./Atrin.Infrastructure/
+COPY Atrin.Shared/*.csproj ./Atrin.Shared/
+
+# Restore dependencies
+RUN dotnet restore
+
+# Copy source code
+COPY . ./
+
+# Build
+WORKDIR /src/Atrin.Api
+RUN dotnet publish -c Release -o /app/publish
+
+# Runtime stage
+FROM mcr.microsoft.com/dotnet/aspnet:9.0 AS runtime
+WORKDIR /app
+EXPOSE 8080
+EXPOSE 8081
+
+COPY --from=build /app/publish .
+
+ENTRYPOINT ["dotnet", "Atrin.Api.dll"]
