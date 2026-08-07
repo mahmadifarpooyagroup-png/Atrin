@@ -1,31 +1,25 @@
 ```
-# Build results
-**/bin/
-**/obj/
-**/out/
-
-# User-specific files
-.vs/
-.vscode/
-*.userprefs
-
-# Dependencies
-packages/
-**/node_modules/
-
-# Environment specific settings
-.env
-.env.local
-*.env.*
-
-# OS generated files
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
-
-# Temporary files
-*.tmp
-*~
+# Compressed files
+*.zip
+*.gz
+*.tar
+*.tgz
+*.bz2
+*.xz
+*.7z
+*.rar
+*.zst
+*.lz4
+*.lzh
+*.cab
+*.arj
+*.rpm
+*.deb
+*.Z
+*.lz
+*.lzo
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tar.zst
 ```
