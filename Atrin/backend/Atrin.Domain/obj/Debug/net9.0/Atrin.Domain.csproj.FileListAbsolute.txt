@@ -1,0 +1,16 @@
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Domain\obj\Debug\net9.0\Atrin.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Domain\obj\Debug\net9.0\Atrin.Domain.AssemblyInfoInputs.cache
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Domain\obj\Debug\net9.0\Atrin.Domain.AssemblyInfo.cs
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Domain\obj\Debug\net9.0\Atrin.Domain.csproj.CoreCompileInputs.cache
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Domain\obj\Debug\net9.0\Atrin.Domain.sourcelink.json
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Domain\obj\Debug\net9.0\Atrin.Domain.csproj.AssemblyReference.cache
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Domain\bin\Debug\net9.0\Atrin.Domain.deps.json
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Domain\bin\Debug\net9.0\Atrin.Domain.dll
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Domain\bin\Debug\net9.0\Atrin.Domain.pdb
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Domain\bin\Debug\net9.0\Atrin.Shared.dll
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Domain\bin\Debug\net9.0\Atrin.Shared.pdb
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Domain\obj\Debug\net9.0\Atrin.Do.6E4EBFC7.Up2Date
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Domain\obj\Debug\net9.0\Atrin.Domain.dll
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Domain\obj\Debug\net9.0\refint\Atrin.Domain.dll
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Domain\obj\Debug\net9.0\Atrin.Domain.pdb
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Domain\obj\Debug\net9.0\ref\Atrin.Domain.dll

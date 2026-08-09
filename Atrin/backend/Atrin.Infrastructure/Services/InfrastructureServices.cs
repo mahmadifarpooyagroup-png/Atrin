@@ -1,3 +1,7 @@
+using Microsoft.Extensions.Logging;
+using Atrin.Application.Common.Interfaces;
+using Microsoft.Extensions.Logging;
+using Atrin.Application.Common.Interfaces;
 using Microsoft.Extensions.Configuration;
 
 namespace Atrin.Infrastructure.Services;
@@ -39,3 +43,5 @@ public class SmsService : ISmsService
         return Task.CompletedTask;
     }
 }
+
+

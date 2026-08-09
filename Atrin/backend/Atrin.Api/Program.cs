@@ -1,3 +1,6 @@
+using Atrin.Api.Extensions;
+using Atrin.Application;
+using Atrin.Infrastructure;
 using HealthChecks.UI.Client;
 using Microsoft.AspNetCore.Diagnostics.HealthChecks;
 using Serilog;
@@ -33,10 +36,7 @@ builder.Services.AddJwtAuthentication(builder.Configuration);
 builder.Services.AddCurrentUserService();
 
 // Add health checks
-builder.Services.AddHealthChecks()
-    .AddNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")!, 
-        name: "PostgreSQL",
-        tags: new[] { "database" });
+builder.Services.AddHealthChecks().AddNpgsql(builder.Configuration.GetConnectionString("DefaultConnection)!);
 
 // Configure CORS
 builder.Services.AddCors(options =>
@@ -92,3 +92,9 @@ app.MapHealthChecks("/health/ready", new HealthCheckOptions
 await Atrin.Infrastructure.InfrastructureDependencyInjection.InitializeDatabaseAsync(app.Services);
 
 app.Run();
+
+
+
+
+
+

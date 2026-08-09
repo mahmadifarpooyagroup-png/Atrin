@@ -1,3 +1,4 @@
+using MediatR;
 using Microsoft.Extensions.DependencyInjection;
 using FluentValidation;
 
@@ -9,7 +10,7 @@ public static class ApplicationDependencyInjection
     {
         var assembly = typeof(ApplicationDependencyInjection).Assembly;
 
-        services.AddAutoMapper(assembly);
+        services.AddAutoMapper(cfg => cfg.AddMaps(assembly), assembly);
         services.AddValidatorsFromAssembly(assembly);
         services.AddMediatR(cfg => {
             cfg.RegisterServicesFromAssembly(assembly);
@@ -19,3 +20,6 @@ public static class ApplicationDependencyInjection
         return services;
     }
 }
+
+
+

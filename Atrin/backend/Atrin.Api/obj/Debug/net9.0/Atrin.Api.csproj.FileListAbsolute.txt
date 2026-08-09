@@ -1,0 +1,9 @@
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Api\obj\Debug\net9.0\Atrin.Api.csproj.AssemblyReference.cache
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Api\obj\Debug\net9.0\Atrin.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Api\obj\Debug\net9.0\Atrin.Api.AssemblyInfoInputs.cache
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Api\obj\Debug\net9.0\Atrin.Api.AssemblyInfo.cs
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Api\obj\Debug\net9.0\Atrin.Api.csproj.CoreCompileInputs.cache
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Api\obj\Debug\net9.0\Atrin.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Api\obj\Debug\net9.0\Atrin.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Api\obj\Debug\net9.0\Atrin.Api.sourcelink.json

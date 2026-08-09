@@ -1,3 +1,5 @@
+using Microsoft.EntityFrameworkCore;
+using Atrin.Domain.Entities;
 using MediatR;
 
 namespace Atrin.Application.Common.Interfaces;
@@ -9,3 +11,4 @@ public interface IApplicationDbContext
     
     Task<int> SaveChangesAsync(CancellationToken cancellationToken = default);
 }
+

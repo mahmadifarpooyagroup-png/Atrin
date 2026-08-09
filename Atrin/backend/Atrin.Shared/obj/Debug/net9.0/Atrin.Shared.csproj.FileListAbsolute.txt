@@ -1,0 +1,12 @@
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Shared\bin\Debug\net9.0\Atrin.Shared.deps.json
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Shared\bin\Debug\net9.0\Atrin.Shared.dll
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Shared\bin\Debug\net9.0\Atrin.Shared.pdb
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Shared\obj\Debug\net9.0\Atrin.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Shared\obj\Debug\net9.0\Atrin.Shared.AssemblyInfoInputs.cache
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Shared\obj\Debug\net9.0\Atrin.Shared.AssemblyInfo.cs
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Shared\obj\Debug\net9.0\Atrin.Shared.csproj.CoreCompileInputs.cache
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Shared\obj\Debug\net9.0\Atrin.Shared.sourcelink.json
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Shared\obj\Debug\net9.0\Atrin.Shared.dll
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Shared\obj\Debug\net9.0\refint\Atrin.Shared.dll
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Shared\obj\Debug\net9.0\Atrin.Shared.pdb
+D:\ATRIN SOFT\Atrin\Atrin\backend\Atrin.Shared\obj\Debug\net9.0\ref\Atrin.Shared.dll

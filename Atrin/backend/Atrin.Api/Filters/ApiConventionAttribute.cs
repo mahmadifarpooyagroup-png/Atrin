@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Mvc.ApplicationModels;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Atrin.Api.Filters;
@@ -14,3 +15,4 @@ public class ApiConventionAttribute : Attribute, IControllerModelConvention
         }
     }
 }
+

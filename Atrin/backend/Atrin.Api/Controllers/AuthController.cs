@@ -1,6 +1,7 @@
-using Microsoft.AspNetCore.Mvc;
+using Atrin.Api.Middleware;
 using Atrin.Application.Common.Models;
-using Atrin.Application.Features.Auth;
+using Atrin.Shared;
+using Microsoft.AspNetCore.Mvc;
 using MediatR;
 
 namespace Atrin.Api.Controllers;
@@ -64,3 +65,8 @@ public class AuthController : ControllerBase
         return Ok();
     }
 }
+
+
+
+
+

@@ -1,3 +1,8 @@
+using Atrin.Domain.Common;
+
+
+
+
 namespace Atrin.Domain.Entities;
 
 public class User : AuditableEntity

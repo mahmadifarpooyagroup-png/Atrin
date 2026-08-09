@@ -1,3 +1,4 @@
+using Atrin.Application.Common.Models;
 using FluentValidation;
 
 namespace Atrin.Application.Features.Auth;
@@ -34,3 +35,5 @@ public class RegisterRequestValidator : AbstractValidator<RegisterRequest>
             .MaximumLength(100).WithMessage("Full name must not exceed 100 characters");
     }
 }
+
+
