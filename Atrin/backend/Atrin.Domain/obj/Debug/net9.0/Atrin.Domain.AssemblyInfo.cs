@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Atrin.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bb06b6739063b4d6550ccbb11de6b8a4850abee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53b9f0aa37d0db1fae716fcd7b2878b64cdbbf0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Atrin.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Atrin.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
